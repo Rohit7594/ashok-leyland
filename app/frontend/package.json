@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/ashokleyland_website",
+  "homepage": "https://Rohit7594.github.io/ashok-leyland",
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.0",
     "class-variance-authority": "^0.7.1",
