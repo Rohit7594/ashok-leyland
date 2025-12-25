@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashokleyland_website/static/css/main.2d4aff8b.css",
+    "main.js": "/ashokleyland_website/static/js/main.093f1424.js",
+    "index.html": "/ashokleyland_website/index.html",
+    "main.2d4aff8b.css.map": "/ashokleyland_website/static/css/main.2d4aff8b.css.map",
+    "main.093f1424.js.map": "/ashokleyland_website/static/js/main.093f1424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4aff8b.css",
+    "static/js/main.093f1424.js"
+  ]
+}
