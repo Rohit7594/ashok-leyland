@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ashok-leyland/static/css/main.2d4aff8b.css",
-    "main.js": "/ashok-leyland/static/js/main.1298a7ea.js",
-    "index.html": "/ashok-leyland/index.html",
-    "main.2d4aff8b.css.map": "/ashok-leyland/static/css/main.2d4aff8b.css.map",
-    "main.1298a7ea.js.map": "/ashok-leyland/static/js/main.1298a7ea.js.map"
+    "main.css": "/subedar-automobiles/static/css/main.2d4aff8b.css",
+    "main.js": "/subedar-automobiles/static/js/main.ce9217d2.js",
+    "index.html": "/subedar-automobiles/index.html",
+    "main.2d4aff8b.css.map": "/subedar-automobiles/static/css/main.2d4aff8b.css.map",
+    "main.ce9217d2.js.map": "/subedar-automobiles/static/js/main.ce9217d2.js.map"
   },
   "entrypoints": [
     "static/css/main.2d4aff8b.css",
-    "static/js/main.1298a7ea.js"
+    "static/js/main.ce9217d2.js"
   ]
 }
